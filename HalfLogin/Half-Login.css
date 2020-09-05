@@ -1,0 +1,41 @@
+html {
+    overflow-y: hidden;
+    background-color: #f9f9f9;
+    ;
+}
+
+body {
+    overflow-x: hidden;
+    overflow: hidden;
+}
+
+.title.is-4 {
+    padding-bottom: 4rem;
+}
+
+.container {
+    padding: 40px;
+}
+
+.column {
+    padding: 0px;
+}
+
+.column.is-6 {
+    padding: 30px;
+}
+
+.input {
+    background-color: #E0E5EC;
+}
+
+.button.is-rounded {
+    margin-top: 3rem;
+}
+
+section.hero.is-success.is-fullheight {
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 6px;
+    box-shadow: 2px 3px 10px #000000;
+}

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hello Bulma!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.css">
+    <link href="https://fonts.googleapis.com/css?family=Concert+One&display=swap" rel="stylesheet">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+<style>
+    html {
+        overflow-y: hidden;
+        background-color: #f9f9f9;
+        ;
+    }
+
+    body {
+        overflow-x: hidden;
+        overflow: hidden;
+    }
+
+    .title.is-4 {
+        padding-bottom: 4rem;
+        font-family: 'Concert One', cursive;
+    }
+
+    .container {
+        padding: 40px;
+    }
+
+    .column {
+        padding: 0px;
+    }
+
+    .column.is-6 {
+        padding: 30px;
+    }
+
+    .input {
+        background-color: #E0E5EC;
+    }
+
+    .buttons {
+        margin-top: 4rem;
+    }
+
+    #signIn {
+        margin-top: 2rem;
+        padding-left: 6rem;
+        padding-right: 6rem;
+        width: 100%;
+        height: 100%;
+        color: white;
+        background-color: #c36a2d;
+    }
+
+    #facebook {
+        margin-top: 2rem;
+        padding-left: 6rem;
+        padding-right: 6rem;
+        width: 100%;
+        height: 100%;
+    }
+
+    #signUp {
+        position: absolute;
+        top: 65%;
+        margin-left: 10rem;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        background-color: transparent;
+        border-color: #ffffff;
+        border-width: 2px;
+        color: white;
+    }
+
+    #signUp:hover {
+        position: absolute;
+        top: 65%;
+        margin-left: 10rem;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        background-color: white;
+        border-color: #cccccc;
+        border-width: 2px;
+        color: black;
+    }
+
+    #first-paragraph {
+        position: absolute;
+        top: 30%;
+        margin-left: 7rem;
+        color: white;
+        font-family: 'Concert One', cursive;
+    }
+
+    #second-paragraph {
+        position: fixed;
+        top: 40%;
+        margin-left: 7rem;
+        color: white;
+        display: block;
+        font-family: 'Concert One', cursive;
+    }
+</style>
+
+
+<body>
+    <div class="columns is-vcentered">
+        <div class="column is-offset-2 is-5">
+            <div class="container">
+                <div class="has-text-centered">
+                    <h4 class="title is-4">Welcome Back</h4>
+                </div>
+                <div class="field">
+                    <label class="label">Name</label>
+                    <div class="control">
+                        <input class="input" type="text" placeholder="Alex Smith">
+                    </div>
+                </div>
+                <div class="field">
+                    <label class="label">Password</label>
+                    <div class="control">
+                        <input class="input" type="password" placeholder="••••••••••">
+                    </div>
+                </div>
+                <div class="field">
+                    <div class="control">
+                        <label class="checkbox">
+                            <input type="checkbox">
+                            I agree to the <a href="2half.html">terms and conditions</a>
+                        </label>
+                    </div>
+                </div>
+                <div class="has-text-centered">
+                    <div class="buttons">
+                        <button id="signIn" class="button is-rounded has-text-weight-bold">Sign In</button>
+                        <button id="facebook" class="button is-rounded is-link is-outlined has-text-weight-bold">Connect
+                            with
+                            Facebook</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="column is-offset-1 is-4 is-hidden-touch">
+            <section class="hero is-success is-fullheight">
+                <figure class="image is-3by5">
+                    <img src="https://source.unsplash.com/random">
+                    <h4 id="first-paragraph" class="title is-4 has-text-weight-bold">Plan Your Future</h4>
+                    <h5 id="second-paragraph" class="title is-5 has-text-weight-bold">Sign Up and discover your new job
+                        opportunities</h5>
+                    <button id="signUp" class="button is-rounded has-text-weight-bold">Sign
+                        Up</button>
+                </figure>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>

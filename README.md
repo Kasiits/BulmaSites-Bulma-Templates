@@ -7,10 +7,18 @@ White Neumorphism           |
 :-------------------------:|
 <a href="https://www.bulmasites.com/demo/White-SoftUI"> <img src="https://www.bulmasites.com/assets/WhiteSoftUI.png" height="400" width="540"> </a>  |
 
-Left Login           |  Brave Browser Login
-:-------------------------:|:-------------------------:
-<a href="https://www.bulmasites.com/demo/Left-Login"> <img src="https://www.bulmasites.com/assets/Left-Login.png" height="440" width="540"> </a>  |  <a href="https://www.bulmasites.com/demo/brave-login"> <img src="https://www.bulmasites.com/assets/Brave-Login.png" height="440" width="540"> </a>
+Left Login           |
+:-------------------------:|
+<a href="https://www.bulmasites.com/demo/Left-Login"> <img src="https://www.bulmasites.com/assets/Left-Login.png" height="400" width="540"> </a>  |
 
-Half Login           |  Crypto Page
-:-------------------------:|:-------------------------:
-<a href="https://www.bulmasites.com/demo/Half-Login"> <img src="https://www.bulmasites.com/assets/Half-Login.png" height="440" width="540"> </a>  |  <a href="https://www.bulmasites.com/demo/Crypto"> <img src="https://www.bulmasites.com/assets/Crypto.png" height="440" width="540"> </a>
+Brave Browser Login           |
+:-------------------------:|
+<a href="https://www.bulmasites.com/demo/brave-login"> <img src="https://www.bulmasites.com/assets/Brave-Login.png" height="400" width="540"> </a>  |
+
+Half Login           |
+:-------------------------:|
+<a href="https://www.bulmasites.com/demo/Half-Login"> <img src="https://www.bulmasites.com/assets/Half-Login.png" height="400" width="540"> </a>  |
+
+Crypto Page           |
+:-------------------------:|
+<a href="https://www.bulmasites.com/demo/Crypto"> <img src="https://www.bulmasites.com/assets/Crypto.png" height="400" width="540"> </a>  |

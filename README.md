@@ -1,7 +1,7 @@
 # Photos
 Dark Neumorphism           |
 :-------------------------:|
-<a href="https://www.bulmasites.com/demo/Dark-SoftUi"> <img src="https://www.bulmasites.com/assets/DarkSoftUI.png" height="500" width="600"> </a>  |
+<a href="https://www.bulmasites.com/demo/Dark-SoftUi"> <img src="https://www.bulmasites.com/assets/DarkSoftUI.png" height="560" width="760"> </a>  |
 
 Left Login           |  Brave Browser Login
 :-------------------------:|:-------------------------:

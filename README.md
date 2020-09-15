@@ -1,7 +1,6 @@
 # Sponsor
 
 <kbd> <a href="https://brave.com/bul528"><img src="https://www.bulmasites.com/assets/brave.png" height="90" width="740"></a> </kbd>
-[enter link description here](https://stackoverflow.com/questions/tagged/markdown?tab=Frequent)
 
 # Photos
 Dark Neumorphism           |

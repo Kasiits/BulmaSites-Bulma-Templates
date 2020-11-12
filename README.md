@@ -5,7 +5,7 @@
 # Photos
 White Dashboard           |
 :-------------------------:|
-<a href="https://www.bulmasites.com/demo/DarkDashboard"> <img src="https://www.bulmasites.com/assets/WhiteDashboard.png" height="400" width="540"> </a>  |
+<a href="https://www.bulmasites.com/demo/WhiteDashboard"> <img src="https://www.bulmasites.com/assets/WhiteDashboard.png" height="400" width="540"> </a>  |
 
 Dark Dashboard           |
 :-------------------------:|

@@ -3,6 +3,10 @@
 <kbd> <a href="https://brave.com/bul528"><img src="https://www.bulmasites.com/assets/brave.png" height="90" width="740"></a> </kbd>
 
 # Photos
+White Dashboard           |
+:-------------------------:|
+<a href="https://www.bulmasites.com/demo/DarkDashboard"> <img src="https://www.bulmasites.com/assets/WhiteDashboard.png" height="400" width="540"> </a>  |
+
 Dark Dashboard           |
 :-------------------------:|
 <a href="https://www.bulmasites.com/demo/DarkDashboard"> <img src="https://www.bulmasites.com/assets/DarkDashboard.png" height="400" width="540"> </a>  |
